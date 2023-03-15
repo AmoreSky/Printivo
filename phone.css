@@ -14,15 +14,15 @@
   }
   #span{
     display: inline !important;
-    left: 50px;
+    left: 100px;
   }
   #what{
     position: relative;
-    left: 70px;
+    left: 120px;
   }
   #nig{
     position: relative;
-    left: 50px;
+    left: 80px;
   }
   #print{
     width: 100px;
@@ -53,14 +53,14 @@
     text-decoration: none;
     position: relative;
     top: 60px;
-    left: -280px;
+    left: -230px;
   }
   .quality{
     font-size: xx-large;
     margin-bottom: 40px;
   }
   .search{
-    width: 370px;
+    width: 300px;
   }
   #serch{
     left: 50px;
@@ -78,14 +78,17 @@
     left: 50px;
   }
   .card{
-    width: 22rem !important;
+    width: 19rem !important;
     margin-bottom: 20px;
 }
 #h3{
     font-size: 28px;
 }
+#p{
+    width: 300px !important;
+}
 #logos{
-    width: 380px;
+    width: 300px;
 }
 #margin{
     margin-left: 5px !important;
