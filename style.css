@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    overflow-x: hidden;
+}
+#container{
+    background-color: #f7f6f4;
+    color: #506683;
+    padding: 10px;
+    margin: 0px 47px 0px 48px;
+}
+#inline{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 13px;
+}
+#span{
+    color:blue;
+    position: relative;
+    left: -50px;
+    top: -3px;
+}
+#top{
+    padding-top: 10px;
+    font-weight: 700;
+    font-size: 13px;
+}
+#what{
+    height: 30px;
+}
+#nig{
+   border: thin solid grey;
+}
+#fluid{
+    margin-left:48px;
+    margin-right: 47px;
+}
+.line{
+    margin-right: 50px;
+    border-radius: 36%;
+    position: relative;
+    top: -3px;
+}
+.link{
+    margin-right: 30px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #384a62;
+}
+.menu{
+    display: none;
+}
+#font{
+    font-weight: 700;
+    padding: 10px;
+}
+#print{
+    position: relative;
+    left: 25px;
+}
+#cart{
+    position: relative;
+    right: 10px;
+}
+.quality{
+    margin-top: 20px;
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: serif;
+    color: #384a62;
+}
+.ship{
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: -30px;
+    color: #708095;
+}
+.wha{
+    font-weight: bold;
+    color: #384a62;
+}
+.search{
+    padding: 20px;
+    width: 650px;
+}
+#section{
+    padding-bottom: 60px;
+    background-color: #ece8d9;
+}
+#search{
+    position: relative;
+    left: -50px;
+}
+.hand{
+    width: 400px;
+    margin-top: 25px;
+    position: relative;
+    left: 13px;
+}
+#Products{
+    margin: 50px 80px 0px 50px;
+}
+.card-title{
+    font-size: 15px;
+    font-weight: bold;
+}
+span{
+    color: #708095;
+    font-weight: 500;
+    font-size: 13px;
+}
+.card-text{
+    font-weight: bolder;
+}
+.btn{
+    background-color: #d77f81 !important;
+     border: none !important;
+     font-weight: 500 !important;
+     font-size: 13px !important;
+}
+.hover:hover{
+    transform: scale(2) !important;
+}
+h6{
+    margin-bottom: 20px !important;
+}
+li{
+    font-weight: 500;
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.img{
+    margin-left: 20px;
+}
+#contain{
+    margin: 0px 47px 0px 48px;
+}
+#span1{
+    color: blue;
+}
+#margin{
+    margin-left: 40px !important;
+}

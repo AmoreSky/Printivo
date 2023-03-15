@@ -1,0 +1,114 @@
+@media only screen and (min-width:360px) and (max-width:475px){
+  #none{
+    display: none !important;
+  }
+  .none{
+    display: none !important;
+  }  
+  #container,#contain,#fluid{
+    margin: 0px !important;
+  }
+  #need{
+    margin: 0px !important;
+    display: none !important;
+  }
+  #span{
+    display: inline !important;
+    left: 50px;
+  }
+  #what{
+    position: relative;
+    left: 70px;
+  }
+  #nig{
+    position: relative;
+    left: 50px;
+  }
+  #print{
+    width: 100px;
+    left: -9px;
+  }
+  #section{
+    padding-left: 20px !important;
+    padding-bottom: 0px;
+  }
+  .products{
+    margin-left: -20px !important;
+  }
+  #cart{
+    right: -100px;
+  }
+  #sign{
+    position: relative;
+    left: 80px;
+  }
+  #font{
+    margin-top: 30px;
+  }
+  .menu{
+    display: block;
+    background-color: white;
+    padding: 15px;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    top: 60px;
+    left: -280px;
+  }
+  .quality{
+    font-size: xx-large;
+    margin-bottom: 40px;
+  }
+  .search{
+    width: 370px;
+  }
+  #serch{
+    left: 50px;
+  }
+  #Products{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  #popular{
+    font-size: larger !important;
+  }
+  #all{
+    font-size: 15px;
+    position: relative;
+    left: 50px;
+  }
+  .card{
+    width: 22rem !important;
+    margin-bottom: 20px;
+}
+#h3{
+    font-size: 28px;
+}
+#logos{
+    width: 380px;
+}
+#margin{
+    margin-left: 5px !important;
+    margin-top: 40px !important;
+}
+#row{
+    display: flex !important;
+    flex-direction: column;
+}
+#read{
+    width: 500px !important;
+}
+li{
+    font-weight: 700;
+    font-size: 14px;
+}
+h6{
+    font-size: 18px !important;
+}
+#first{
+    margin-top: 50px;
+}
+#mar{
+    padding-bottom: 50px;
+}
+}
